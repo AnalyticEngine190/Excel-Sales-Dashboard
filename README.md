@@ -6,11 +6,11 @@ I wanted to make a project only using my Excel skills.
 
 The final dashboard is fully interactive and allows any user to filter the data and gain immediate insights.
 
-🚀 Final Dashboard Preview
+Final Dashboard Preview
 
 This screenshot is of the final, interactive dashboard. The Slicers on the right control all four charts.
 
-🛠️ Advanced Excel Skills Showcased
+Advanced Excel Skills Showcased
 
 This project was built to demonstrate a complete data analysis workflow using only Excel:
 
@@ -40,13 +40,13 @@ Added Slicers (for Region and Category) and a Timeline (for Order Date).
 
 Used "Report Connections" to link all Slicers to all four Pivot Tables simultaneously.
 
-💾 Data Source
+Data Source
 
 The raw data used for this project is the classic "Superstore" sales dataset, which can be found on many platforms.
 
 A common source: Kaggle: Sample Superstore Dataset
 
-▶️ How to Use This Project
+How to Use This Project
 
 Download the .xlsx file:
 
